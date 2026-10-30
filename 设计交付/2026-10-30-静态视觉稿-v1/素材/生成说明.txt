@@ -1,0 +1,7 @@
+用途：聊天页中模拟用户上传的非私人静物照片。
+方式：内置 imagegen 工具。未使用 CLI/API fallback。
+输入：仅以下文字，无参考图、真实照片、私人角色设定或聊天记录。
+提示词原文：
+Create a single safe fictional still-life photograph to be used as a small user-uploaded photo inside a Chinese private chat UI mockup. Close view on a simple pale-blue ceramic mug holding tea, next to one closed cream-colored unmarked book on a light wood tabletop by a window. Soft natural afternoon light, quiet authentic everyday feel, subtle muted warm and blue palette. Objects clearly visible, realistic photography, no people, no hands, no faces, no text, no logos, no personal information. Horizontal composition, landscape photograph. This is only a design example asset, not a product image-generation feature.
+
+产品范围边界：该素材仅为设计工具生成的虚构图片，不增加产品的 AI 图片生成功能。
