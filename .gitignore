@@ -1,0 +1,47 @@
+# 本地密钥与配置
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# 私人研究材料不得公开提交
+私密资料/
+访谈原始记录/
+
+# 本地依赖和系统文件
+node_modules/
+.DS_Store
+Thumbs.db
+
+# 构建文件
+.next/
+out/
+build/
+dist/
+
+# 部署配置
+.vercel/
+
+# 日志
+*.log
+npm-debug.log*
+
+# 本地数据库
+*.db
+*.sqlite
+*.sqlite3
+
+# 测试产物
+coverage/
+test-results/
+playwright-report/
+
+# 本地用户数据
+uploads/
+local-data/
+storage/
+
+# 编辑器文件
+.idea/
+.vscode/
